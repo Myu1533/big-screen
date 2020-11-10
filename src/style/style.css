@@ -1,0 +1,17 @@
+.custom-modal {
+  background-color: tomato;
+}
+.custom-modal .ant-modal-content {
+  position: relative;
+  background-color: transparent;
+  border: 0;
+  border-radius: 4px;
+  background-clip: padding-box;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0) !important;
+}
+
+.custom-modal .ant-modal-body {
+  padding: 0 !important;
+  font-size: 0 !important;
+  line-height: 1 !important;
+}
